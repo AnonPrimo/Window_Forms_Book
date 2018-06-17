@@ -12,7 +12,7 @@ namespace BOO11_Stopwatch
 {
     public partial class Form1 : Form
     {
-        int m, s, ms;
+        int m, s, ms=0;
 
         private void button1_Click(object sender, EventArgs e)
         {
