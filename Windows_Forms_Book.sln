@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B006_Jalousie", "..\Jalousi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B007_Calculator", "..\Jalousie\Calculator\B007_Calculator.csproj", "{24796236-0A81-4538-A9AB-5857262DD983}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{496D6D1D-C55D-4D1C-BBDE-FED585279E67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{24796236-0A81-4538-A9AB-5857262DD983}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24796236-0A81-4538-A9AB-5857262DD983}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24796236-0A81-4538-A9AB-5857262DD983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496D6D1D-C55D-4D1C-BBDE-FED585279E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496D6D1D-C55D-4D1C-BBDE-FED585279E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496D6D1D-C55D-4D1C-BBDE-FED585279E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496D6D1D-C55D-4D1C-BBDE-FED585279E67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
