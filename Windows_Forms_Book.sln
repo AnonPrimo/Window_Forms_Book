@@ -11,15 +11,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B002_Фунти-кілог�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B003_Converter", "Converter\B003_Converter.csproj", "{78623FC9-C5CC-409D-92C7-F7C68DAE4ECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOO10_Illustration", "BOO10_Illustration\BOO10_Illustration.csproj", "{D8D396C2-E093-4496-9931-F2847F5EF51A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B009_Illustration", "BOO10_Illustration\B009_Illustration.csproj", "{D8D396C2-E093-4496-9931-F2847F5EF51A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOO11_Stopwatch", "BOO11_Stopwatch\BOO11_Stopwatch.csproj", "{90A346F2-3D0B-4744-B701-EFC80274BF38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B010_Stopwatch", "BOO11_Stopwatch\B010_Stopwatch.csproj", "{90A346F2-3D0B-4744-B701-EFC80274BF38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOO12_Timer", "BOO12_Timer\BOO12_Timer.csproj", "{0E9AA92E-307D-4D08-B2A4-88115C3B8110}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B011_Timer", "BOO12_Timer\B011_Timer.csproj", "{0E9AA92E-307D-4D08-B2A4-88115C3B8110}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOO13_User_settings", "BOO13_User_settings\BOO13_User_settings.csproj", "{FBD8B968-FA87-4E93-9671-D858DDDB8F58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B012_User_settings", "BOO13_User_settings\B012_User_settings.csproj", "{FBD8B968-FA87-4E93-9671-D858DDDB8F58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOO19_CW(text)", "BOO19_CW(text)\BOO19_CW(text).csproj", "{BF4251FB-6F76-4DDA-994C-B147D4AE2BF6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B018_CW(text)", "BOO19_CW(text)\B018_CW(text).csproj", "{BF4251FB-6F76-4DDA-994C-B147D4AE2BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B006_Jalousie", "..\Jalousie\Jalousie\B006_Jalousie.csproj", "{9DFCE3BA-23E4-4D20-8568-6BA2287E4715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B007_Calculator", "..\Jalousie\Calculator\B007_Calculator.csproj", "{24796236-0A81-4538-A9AB-5857262DD983}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{BF4251FB-6F76-4DDA-994C-B147D4AE2BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF4251FB-6F76-4DDA-994C-B147D4AE2BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF4251FB-6F76-4DDA-994C-B147D4AE2BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFCE3BA-23E4-4D20-8568-6BA2287E4715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFCE3BA-23E4-4D20-8568-6BA2287E4715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFCE3BA-23E4-4D20-8568-6BA2287E4715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFCE3BA-23E4-4D20-8568-6BA2287E4715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24796236-0A81-4538-A9AB-5857262DD983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24796236-0A81-4538-A9AB-5857262DD983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24796236-0A81-4538-A9AB-5857262DD983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24796236-0A81-4538-A9AB-5857262DD983}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
