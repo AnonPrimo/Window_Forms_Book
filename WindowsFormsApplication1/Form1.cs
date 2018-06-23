@@ -16,5 +16,30 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+        }
+
+        private void button1_MouseClick(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void button1_Move(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_MouseMove(object sender, MouseEventArgs e)
+        {
+
+        }
     }
 }

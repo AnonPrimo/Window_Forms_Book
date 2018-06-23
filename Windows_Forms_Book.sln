@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{0F437895-ACBA-4B87-A9E9-EC81E370B5B0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B001_Mili_kil", "WindowsFormsApplication1_TEST\B001_Mili_kil.csproj", "{1203A613-42FB-4641-A7D2-85D807D39DA0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B002_Фунти-кілограми_2", "Фунти-кілограми_2\B002_Фунти-кілограми_2.csproj", "{706EC99C-06E5-4A35-AB2E-ADA4C83A7694}"
@@ -25,7 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B006_Jalousie", "..\Jalousi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B007_Calculator", "..\Jalousie\Calculator\B007_Calculator.csproj", "{24796236-0A81-4538-A9AB-5857262DD983}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{496D6D1D-C55D-4D1C-BBDE-FED585279E67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOwn", "WinFormsOwn\WinFormsOwn.csproj", "{9A6362CF-22FC-4911-9B29-BCBF9BAE3DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B024_Fliing", "B024_Fliing\B024_Fliing.csproj", "{37794554-C6CF-461F-BF98-DCECFE9C320F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,10 +33,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0F437895-ACBA-4B87-A9E9-EC81E370B5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F437895-ACBA-4B87-A9E9-EC81E370B5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F437895-ACBA-4B87-A9E9-EC81E370B5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F437895-ACBA-4B87-A9E9-EC81E370B5B0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1203A613-42FB-4641-A7D2-85D807D39DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1203A613-42FB-4641-A7D2-85D807D39DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1203A613-42FB-4641-A7D2-85D807D39DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -77,10 +73,14 @@ Global
 		{24796236-0A81-4538-A9AB-5857262DD983}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24796236-0A81-4538-A9AB-5857262DD983}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24796236-0A81-4538-A9AB-5857262DD983}.Release|Any CPU.Build.0 = Release|Any CPU
-		{496D6D1D-C55D-4D1C-BBDE-FED585279E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{496D6D1D-C55D-4D1C-BBDE-FED585279E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{496D6D1D-C55D-4D1C-BBDE-FED585279E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{496D6D1D-C55D-4D1C-BBDE-FED585279E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6362CF-22FC-4911-9B29-BCBF9BAE3DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6362CF-22FC-4911-9B29-BCBF9BAE3DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6362CF-22FC-4911-9B29-BCBF9BAE3DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6362CF-22FC-4911-9B29-BCBF9BAE3DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37794554-C6CF-461F-BF98-DCECFE9C320F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37794554-C6CF-461F-BF98-DCECFE9C320F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37794554-C6CF-461F-BF98-DCECFE9C320F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37794554-C6CF-461F-BF98-DCECFE9C320F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
