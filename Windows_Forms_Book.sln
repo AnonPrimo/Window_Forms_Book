@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B021_Graphics", "B021_Graph
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B029_DoubleJPEG", "B029_DoubleJPEG\B029_DoubleJPEG.csproj", "{F1CEADC1-779D-4F0E-9199-CFC5185E2523}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B032_Budilnik", "B032_Budilnik\B032_Budilnik.csproj", "{221B9E2F-A8A5-44E2-B61B-4AD7F9135FEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{F1CEADC1-779D-4F0E-9199-CFC5185E2523}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1CEADC1-779D-4F0E-9199-CFC5185E2523}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1CEADC1-779D-4F0E-9199-CFC5185E2523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221B9E2F-A8A5-44E2-B61B-4AD7F9135FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221B9E2F-A8A5-44E2-B61B-4AD7F9135FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221B9E2F-A8A5-44E2-B61B-4AD7F9135FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221B9E2F-A8A5-44E2-B61B-4AD7F9135FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
