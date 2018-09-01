@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B029_DoubleJPEG", "B029_Dou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B032_Budilnik", "B032_Budilnik\B032_Budilnik.csproj", "{221B9E2F-A8A5-44E2-B61B-4AD7F9135FEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_FindInArray", "LINQ_FindInArray\LINQ_FindInArray.csproj", "{3D246558-2B36-4E29-B0FA-35E52F7E9FB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{221B9E2F-A8A5-44E2-B61B-4AD7F9135FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{221B9E2F-A8A5-44E2-B61B-4AD7F9135FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{221B9E2F-A8A5-44E2-B61B-4AD7F9135FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D246558-2B36-4E29-B0FA-35E52F7E9FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D246558-2B36-4E29-B0FA-35E52F7E9FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D246558-2B36-4E29-B0FA-35E52F7E9FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D246558-2B36-4E29-B0FA-35E52F7E9FB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
